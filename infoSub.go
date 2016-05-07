@@ -1,4 +1,4 @@
-package infoSub
+lpackage infoSub
 
 func infometion()string{
   return "http://web-int.u-aizu.ac.jp/labs/istc/ipc/index.html"
